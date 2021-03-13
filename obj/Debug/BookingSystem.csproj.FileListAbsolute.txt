@@ -1,0 +1,7 @@
+d:\mykyta\prog\BookingSystem\bin\Debug\Booking system.exe.config
+d:\mykyta\prog\BookingSystem\bin\Debug\Booking system.exe
+d:\mykyta\prog\BookingSystem\bin\Debug\Booking system.pdb
+d:\mykyta\prog\BookingSystem\obj\Debug\BookingSystem.csprojAssemblyReference.cache
+d:\mykyta\prog\BookingSystem\obj\Debug\BookingSystem.csproj.CoreCompileInputs.cache
+d:\mykyta\prog\BookingSystem\obj\Debug\Booking system.exe
+d:\mykyta\prog\BookingSystem\obj\Debug\Booking system.pdb

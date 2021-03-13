@@ -1,0 +1,7 @@
+D:\mykyta\prog\OOP_Lab8\bin\Debug\OOP_Lab8.exe.config
+D:\mykyta\prog\OOP_Lab8\bin\Debug\OOP_Lab8.exe
+D:\mykyta\prog\OOP_Lab8\bin\Debug\OOP_Lab8.pdb
+D:\mykyta\prog\OOP_Lab8\obj\Debug\OOP_Lab8.csprojAssemblyReference.cache
+D:\mykyta\prog\OOP_Lab8\obj\Debug\OOP_Lab8.csproj.CoreCompileInputs.cache
+D:\mykyta\prog\OOP_Lab8\obj\Debug\OOP_Lab8.exe
+D:\mykyta\prog\OOP_Lab8\obj\Debug\OOP_Lab8.pdb
